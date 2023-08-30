@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+/* styles */
+
+*{
+  margin: 0;
+  color: black;
+  font-family: "Oswald";
+
+}
+
+.navbar{
+  padding: 20px;
+  display: flex;
+  align-items:center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid grey;
+}
+
+.navbar h1{
+  color: red;
+}
+
+.navbar .links{
+  margin-left: auto;
+}
+
+.navbar a{
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  color: red;
+}
+.navbar a:hover{
+  color: yellow;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  
+}
+
+/* blog preview */
+
+.listfruta {
+  padding: 10px 16px;
+  margin: 20px 0;
+  color: yellow;
+}
+
+.listfruta:hover {
+  box-shadow: 1px 2px 4px grey;
+}
+
+.bloglist h1{
+  font-size: 40px;
+  color: greenyellow;
+  margin-bottom: 8px;
+}
+
+.location {
+  font-size: 30px;
+}
+
+.listfruta title{
+  color: blue;
+}
+
+.app-weather {
+  padding: 20px;
+  display:flexbox;
+  align-items:center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid grey;
+}

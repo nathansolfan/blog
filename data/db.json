@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Why do we use it?",
+      "author": "Marioo",
+      "id": 1
+    },
+    {
+      "title": "MY second body",
+      "body": "How do we use",
+      "author": "Luigi",
+      "id": 2
+    },
+    {
+      "title": "My third body",
+      "body": "How do we kill it",
+      "author": "Peach",
+      "id": 3
+    },
+    {
+      "title": "New blog",
+      "body": "This is a new blog",
+      "author": "Mario",
+      "id": 4
+    }
+  ]
+}
